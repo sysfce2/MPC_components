@@ -13,7 +13,7 @@ https://github.com/Aleksoid1978/VideoRenderer/releases/tag/0.9.19
 * MpcVideoRenderer.ax
 * MpcVideoRenderer64.ax
 
-## MPC Script Source 0.2.13.225
-https://github.com/v0lt/ScriptSourceFilter/releases/tag/0.2.13
+## MPC Script Source 0.2.15.235
+https://github.com/v0lt/ScriptSourceFilter/releases/tag/0.2.15
 * MpcScriptSource.ax
 * MpcScriptSource64.ax
